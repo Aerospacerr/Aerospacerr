@@ -1,8 +1,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
+
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&show_icons=true&theme=tokyonight )
 
 
-![](https://img.shields.io/badge/<Coding>-<Python>/<Coding>-<MATLAB>/<Simulation>-<Simulink>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerospacerr&layout=compact)](https://github.com/aerospacerr/github-readme-stats)
+
 
 <!--
 **Aerospacerr/Aerospacerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
