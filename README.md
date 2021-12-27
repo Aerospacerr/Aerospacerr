@@ -1,16 +1,21 @@
+<p align="center">
+  
 [![Header](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg "Header" )](https://www.linkedin.com/in/emircan/)
+    
 
+</p>
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Hüseyin Emir Can. I am an Aerospace Engineer who wants to be a Data Scientist as well. I started it with self-taught Coursear courses and now I am a participant of Data Science&Machine Learning Bootcamp at VBO.
-You can also contact me via LinkedIn: 
+You can also contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
-[![LinkedIn][1.1]][1]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerospacerr&repo=github-readme-stats)](https://github.com/aerospacerr/github-readme-stats)
+
 
 
 [1]: https://www.linkedin.com/in/emircan/  
 
-[1.1]: https://icons8.com/icon/xuvGCOXi8Wyg/linkedin  
+[1.1]: https://img.icons8.com/fluency/24/000000/linkedin.png  
 
 
 <a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>[https://www.linkedin.com/in/emircan/]
