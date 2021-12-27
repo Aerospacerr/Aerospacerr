@@ -2,7 +2,8 @@
   
 [![Header](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg "Header" )](https://www.linkedin.com/in/emircan/)
     
-
+<a href="https://www.linkedin.com/in/emircan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  
 </p>
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
