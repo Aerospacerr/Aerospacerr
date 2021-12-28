@@ -21,18 +21,19 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 ## &#x1f4c8; GitHub Stats
 
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&show_icons=true&theme=tokyonight )
+[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&theme=tokyonight)](https://github.com/aerospacerr/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerospacerr&layout=compact)](https://github.com/aerospacerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerospacerr&theme=jolly)](https://github.com/aerospacerr/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerospacerr&repo=github-readme-stats)](https://github.com/aerospacerr/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [1]: https://www.linkedin.com/in/emircan/  
 
 [1.1]: https://img.icons8.com/fluency/24/000000/linkedin.png  
-
+[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&show_icons=true&theme=tokyonight )](https://github.com/aerospacerr/github-readme-stats)
 
 <!--
 **Aerospacerr/Aerospacerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
