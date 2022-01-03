@@ -27,6 +27,7 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 ## &#x1f4c8; GitHub Stats
 
+[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&theme=tokyonight)](https://github.com/aerospacerr/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerospacerr&theme=jolly)](https://github.com/aerospacerr/github-readme-stats)
