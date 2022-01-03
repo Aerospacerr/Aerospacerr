@@ -1,5 +1,7 @@
 <p align="center">
+    
 ![Image](https://i.hizliresim.com/391w5ni.png)  
+    
 [![Header](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg "Header" )](https://www.linkedin.com/in/emircan/) 
     
 </p>
