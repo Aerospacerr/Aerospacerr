@@ -1,6 +1,6 @@
 <p align="center">
     
-[![Header](https://i.hizliresim.com/391w5ni.png "Header" )](https://www.linkedin.com/in/emircan/)
+![Image](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
     
 
     
@@ -38,8 +38,8 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 [1.1]: https://img.icons8.com/fluency/24/000000/linkedin.png  
 
+[![Header](https://i.hizliresim.com/391w5ni.png "Header" )](https://www.linkedin.com/in/emircan/)
 
-![Image](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
 
 <!--
 **Aerospacerr/Aerospacerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
